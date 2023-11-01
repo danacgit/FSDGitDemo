@@ -1,0 +1,6 @@
+<!-- Checkpoint1:
+1)Folder-FSDGitDemo
+2)index.html,file.txt
+3)initialize git
+4)Add the all the file to local repo
+5)Create version snapshot  -->
